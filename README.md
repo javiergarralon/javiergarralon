@@ -4,13 +4,17 @@
 <h3>Desarrollador de Software con más de 2 años de experiencia en .NET Framework interesado en el desarrollo de aplicaciones móviles Android (Kotlin).</h3>
 </div>
 
-- 🔭 Actualmente trabajando en M2C - an Ayesa company como desarrollador BackEnd .NET en proyecto de SegurCaixa Adeslas.
+
+
+- 🔭 Actualmente trabajando en **M2C - an Ayesa company** como **desarrollador BackEnd .NET** en proyecto de **SegurCaixa Adeslas**.
 
 - 🤓 Fórmandome de manera autodidacta en el desarrollo de aplicaciones móviles  **Android (Kotlin)**.
 
 - 📱 Proyectos en los que utilizo **arquitectura MVVVM y clean code, Dagger Hilt, Retrofit y corrutinas, Room y más**.
 
 - 📧 Cómo contactarme: **garralonmourin@gmail.com**
+
+  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
