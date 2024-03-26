@@ -4,7 +4,8 @@
 <h3>Desarrollador de Software con más de 2 años de experiencia en .NET Framework interesado en el desarrollo de aplicaciones móviles Android (Kotlin).</h3>
 </div>
 
-
+<br/>
+<br/>
 
 - 🔭 Actualmente trabajando en **M2C - an Ayesa company** como **desarrollador BackEnd .NET** en proyecto de **SegurCaixa Adeslas**.
 
@@ -14,7 +15,11 @@
 
 - 📧 Cómo contactarme: **garralonmourin@gmail.com**
 
-  
+- <a href="https://linkedin.com/in/afuentenebrogomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiergarralon" height="10" width="15" /> Conecta conmigo</a> 
+
+
+  <br/>
+  <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
