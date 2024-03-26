@@ -15,7 +15,7 @@
 
 - 📧 Cómo contactarme: **garralonmourin@gmail.com**
 
-- <a href="https://linkedin.com/in/afuentenebrogomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiergarralon" height="10" width="15" /> Conecta conmigo</a> 
+- <a href="https://www.linkedin.com/in/javier-garralon-mourin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiergarralon" height="15" width="20" /></a><a href="https://www.linkedin.com/in/javier-garralon-mourin" target="blank"> Conecta conmigo</a>.
 
 
   <br/>
