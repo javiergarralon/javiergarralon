@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">¡Hola!👋 Soy <a href="https://www.linkedin.com/in/javier-garralon-mourin/">Javier Garralón</a></h1>
 <img src="https://i.imgur.com/Tc40qse.png">
-<h3>Desarrollador de Software con más de 3 años de experiencia en .NET Framework interesado en el desarrollo de aplicaciones móviles Android (Kotlin).</h3>
+<h3>Desarrollador de Software con más de 3 años de experiencia en .NET Framework interesado en el desarrollo de aplicaciones.</h3>
 </div>
 
 <br/>
@@ -9,7 +9,7 @@
 
 - 🔭 Actualmente trabajando en **M2C - an Ayesa company** como **desarrollador BackEnd .NET** en proyecto de **SegurCaixa Adeslas**.
 
-- 🤓 Fórmandome de manera autodidacta en el desarrollo de aplicaciones móviles  **Android (Kotlin)**.
+- 🤓 Fórmandome de manera autodidacta en el **desarrollo de aplicaciones**.
 
 - 📱 Proyectos en los que utilizo **arquitectura MVVVM y clean code, Dagger Hilt, Retrofit y corrutinas, Room y más**.
 
