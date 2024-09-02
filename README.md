@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">¡Hola!👋 Soy <a href="https://www.linkedin.com/in/javier-garralon-mourin/">Javier Garralón</a></h1>
 <img src="https://i.imgur.com/Tc40qse.png">
-<h3>Desarrollador de Software con más de 3 años de experiencia en .NET Framework interesado en el desarrollo de aplicaciones.</h3>
+<h3>Desarrollador de Software con más de 3 años de experiencia en .NET interesado en el desarrollo de aplicaciones.</h3>
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 
 - 🤓 Fórmandome de manera autodidacta en el **desarrollo de aplicaciones**.
 
-- 📱 Proyectos en los que utilizo **arquitectura MVVVM y clean code, Dagger Hilt, Retrofit y corrutinas, Room y más**.
+- 📱 Proyectos en los que utilizo **arquitectura MVVM y clean code, Dagger Hilt, Retrofit y corrutinas, Room y más**.
 
 - 📧 Cómo contactarme: **garralonmourin@gmail.com**
 
