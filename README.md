@@ -7,8 +7,6 @@
 <br/>
 <br/>
 
-- 🔭 Actualmente trabajando en **M2C - an Ayesa company** como **desarrollador BackEnd .NET** en proyecto de **SegurCaixa Adeslas**.
-
 - 🤓 Fórmandome de manera autodidacta en el **desarrollo de aplicaciones**.
 
 - 📱 Proyectos en los que utilizo **arquitectura MVVM y clean code, Dagger Hilt, Retrofit y corrutinas, Room y más**.
