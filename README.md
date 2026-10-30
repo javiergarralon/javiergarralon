@@ -1,10 +1,8 @@
 <div align="center">
 <h1 align="center">¡Hola!👋 Soy <a href="https://www.linkedin.com/in/javier-garralon-mourin/">Javi</a></h1>
 <img src="https://i.imgur.com/Tc40qse.png">
-<h3>Desarrollador de Software</h3>
 </div>
 
-<br/>
 <br/>
 
 - 🤓 **Desarrollando** de vez en cuando **software**.
