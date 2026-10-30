@@ -1,17 +1,15 @@
 <div align="center">
-<h1 align="center">¡Hola!👋 Soy <a href="https://www.linkedin.com/in/javier-garralon-mourin/">Javier Garralón</a></h1>
+<h1 align="center">¡Hola!👋 Soy <a href="https://www.linkedin.com/in/javier-garralon-mourin/">Javi</a></h1>
 <img src="https://i.imgur.com/Tc40qse.png">
-<h3>Desarrollador de Software con más de 3 años de experiencia en .NET interesado en el desarrollo de aplicaciones.</h3>
+<h3>Desarrollador de Software</h3>
 </div>
 
 <br/>
 <br/>
 
-- 🤓 Fórmandome de manera autodidacta en el **desarrollo de aplicaciones**.
+- 🤓 **Desarrollando** de vez en cuando **software**.
 
-- 📱 Proyectos en los que utilizo **arquitectura MVVM y clean code, Dagger Hilt, Retrofit y corrutinas, Room y más**.
-
-- 📧 Cómo contactarme: **garralonmourin@gmail.com**
+- 📱 Proyectos en los que realizo **algunas pruebas**.
 
 - <a href="https://www.linkedin.com/in/javier-garralon-mourin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiergarralon" height="15" width="20"/>&nbsp;<a href="https://www.linkedin.com/in/javier-garralon-mourin" target="blank">Conecta conmigo</a>.
 
